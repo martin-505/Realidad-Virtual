@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-15T17:09:58.597-06:00
-  initializedAtString: 2019-11-15T17:09:58.591-06:00
+  lastUpdatedAtString: 2019-11-15T17:17:59.213-06:00
+  initializedAtString: 2019-11-15T17:17:59.213-06:00
   currentGitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/martin-505/Realidad-Virtual.git
     login: 
     user: 
     host: 
@@ -33,6 +33,6 @@ MonoBehaviour:
       url: 
     trackingBranch: 
   currentConfigRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/martin-505/Realidad-Virtual.git
   currentHead: 

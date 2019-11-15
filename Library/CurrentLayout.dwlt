@@ -42,8 +42,8 @@ MonoBehaviour:
     y: 336
     width: 672
     height: 292
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 124}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 19}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 248}
   m_MaxSize: {x: 4002, y: 6096}
   vertical: 1
-  controlID: 61
+  controlID: 119
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 32
+  controlID: 13
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -401,7 +401,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 702e0000
     m_LastClickedID: 11888
-    m_ExpandedIDs: 00000000260c00005e0c0000180d00007c0d0000e60d0000900e000078100000fa1200003413000078130000d213000030140000
+    m_ExpandedIDs: 00000000c20c0000fa0c0000b40d0000180e0000840e0000340f000026110000b4130000f01300003614000094140000f6140000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -429,7 +429,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 2267}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000260c00005e0c0000180d00007c0d0000e60d0000900e000078100000fa1200003413000078130000d213000030140000
+    m_ExpandedIDs: ffffffff00000000c20c0000fa0c0000b40d0000180e0000840e0000340f000026110000b4130000f01300003614000094140000f6140000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -637,7 +637,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.085965514, y: 0.91005975, z: -0.2386889, w: 0.32776335}
     speed: 2
-    m_Value: {x: 0.085965514, y: 0.91005975, z: -0.2386889, w: 0.32776335}
+    m_Value: {x: 0.085965514, y: 0.9100597, z: -0.2386889, w: 0.32776335}
   m_Size:
     m_Target: 4.657884
     speed: 2
@@ -689,8 +689,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -226.66667
-    m_HBaseRangeMax: 226.66667
+    m_HBaseRangeMin: -226.5
+    m_HBaseRangeMax: 226.5
     m_VBaseRangeMin: -127.5
     m_VBaseRangeMax: 127.5
     m_HAllowExceedBaseRangeMin: 1
@@ -728,7 +728,7 @@ MonoBehaviour:
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
-  m_LastWindowPixelSize: {x: 2010, y: 816}
+  m_LastWindowPixelSize: {x: 670, y: 272}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000100000100
