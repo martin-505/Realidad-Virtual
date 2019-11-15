@@ -2,7 +2,7 @@
 
 Nombre del equipo: La mafia del poder
 
-Integrantes: Rigoberto Ortega Serrano & Martin González Ramos.
+Integrantes: Rigoberto Ortega Serrano, Ricardo Javier Sandoval Calderon & Martin González Ramos.
 
 Eje temático: Innovación 	Social | Inclusión
 
